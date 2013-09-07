@@ -1,0 +1,3 @@
+export PATH=/home/linux4biz/Develop/arm-2009q1/bin/:$PATH 
+export CROSS_COMPILE=arm-none-linux-gnueabi-
+export ARCH=arm
