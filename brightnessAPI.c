@@ -12,7 +12,7 @@
 #include <linux/vermagic.h>
 #endif
 
-MODULE_AUTHOR("Avi Cohen, Linux4biz ltd.  avic@linux4biz.com");
+MODULE_AUTHOR("Avi Cohen.  avrahamcohen.ac@gmail.com");
 MODULE_DESCRIPTION("PWM kernel module for OMAP3530");
 MODULE_LICENSE("GPL");
 
